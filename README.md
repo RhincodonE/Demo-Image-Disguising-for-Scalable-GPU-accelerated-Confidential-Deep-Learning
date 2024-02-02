@@ -25,3 +25,22 @@ Run demo: python demo.py
 
 5.Neuracrypt: Only need to choose block size to encrypt images. 
 6.Show results button: to show experimental results in the papers.
+
+
+Thanks for citing our work!
+
+@inproceedings{10.1145/3576915.3624364,
+author = {Gu, Yuechun and Sharma, Sagar and Chen, Keke},
+title = {Demo: Image Disguising for Scalable GPU-accelerated&nbsp;Confidential Deep Learning},
+year = {2023},
+isbn = {9798400700507},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3576915.3624364},
+doi = {10.1145/3576915.3624364},
+pages = {3679–3681},
+numpages = {3},
+keywords = {gpu-acceleration, instance encoding, privacy-preserving machine learning},
+location = {<conf-loc>, <city>Copenhagen</city>, <country>Denmark</country>, </conf-loc>},
+series = {CCS '23}
+}
